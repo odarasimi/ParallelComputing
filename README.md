@@ -1,1 +1,1 @@
-### Parallel Computing with Julia
+### Parallelism with Julia
